@@ -1,0 +1,48 @@
+{
+    "capabilities": [ 
+    {
+    "os_version": 10,
+    "os": "Windows",
+    "browser": "Chrome",
+    "browser_version": "latest",
+    "project" : "Demo",
+    "build": "BStackDemo",
+    "name": "Test1"
+    },
+    {
+    "os" : "Windows",
+    "os_version" : "10",
+    "browser" : "Edge",
+    "browser_version" : "latest",
+    "project" : "Demo",
+    "name": "Test2",
+    "build": "BStackDemo"
+    },
+    {
+    "os" : "OS X",
+    "os_version" : "Big Sur",
+    "browser" : "Safari",
+    "browser_version" : "14.0",
+    "project" : "Demo",
+    "name": "Test3",
+    "build": "BStackDemo"
+    },
+    {
+    "os_version": 10,
+    "os": "Windows",
+    "browser": "Firefox",
+    "browser_version": "latest",
+    "project" : "Demo",
+    "name": "Test4",
+    "build": "BStackDemo"
+    },
+    {
+    "os_version" : "Catalina",
+    "os": "OS X",
+    "browser": "Safari",
+    "browser_version": "latest",
+    "project" : "Demo",
+    "name": "Test5",
+    "build": "BStackDemo"
+}]	
+    }
