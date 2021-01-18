@@ -1,6 +1,6 @@
 
 export BROWSERSTACK_USERNAME=aayushibhardwaj1
 export BROWSERSTACK_ACCESS_KEY=DX3RqCMbzeKwjRxpBzTa
-export TEST_ENV=local
+export TEST_ENV=browserstack
 cd src
 python controller.py
