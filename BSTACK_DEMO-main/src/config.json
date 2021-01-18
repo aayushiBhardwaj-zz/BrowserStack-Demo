@@ -6,7 +6,7 @@
     "browser": "Chrome",
     "browser_version": "latest",
     "project" : "Demo",
-    "build": "build 2.53.0",
+    "build": "BStackDemo",
     "name": "Test1"
     },
     {
