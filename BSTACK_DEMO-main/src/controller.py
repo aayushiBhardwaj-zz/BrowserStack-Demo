@@ -7,7 +7,7 @@ from threading import Thread
 os.environ["PYTHONIOENCODING"] = "utf-8"
 username = os.getenv('BROWSERSTACK_USERNAME')
 access_key = os.getenv('BROWSERSTACK_ACCESS_KEY')
-buildCID = os.getenv('BROWSERSTACK_BUILD_NAME')
+#buildCID = os.getenv('BROWSERSTACK_BUILD_NAME')
 test_env = os.getenv('TEST_ENV')
 
 if test_env=='local':
